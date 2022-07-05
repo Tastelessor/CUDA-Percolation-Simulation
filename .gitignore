@@ -1,0 +1,7 @@
+*.o
+*.mod
+test
+*.png
+slurm-*.out
+*.ncu-rep
+*.qdrep
